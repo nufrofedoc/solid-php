@@ -1,3 +1,5 @@
+<?php
+    
 // Open Closed Principle Violation
 class Programmer
 {
