@@ -1,5 +1,7 @@
 # SOLID Principles in PHP
 
+In software engineering, SOLID is a mnemonic acronym for five design principles intended to make software designs more understandable, flexible, and maintainable.
+
 ### Single Responsibility Principle
 > A class should have one and only one reason to change, meaning that a class should have only one job.
 
